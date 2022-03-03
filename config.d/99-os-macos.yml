@@ -1,7 +1,8 @@
 window:
   padding:
-   x: 5
-   y: 5
+    x: 5
+    y: 20
+  decorations: transparent
 
 font:
   use_thin_strokes: true
